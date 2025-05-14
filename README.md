@@ -3,6 +3,19 @@
 
 
 
+
+
+
+
+
+
+
+<h4> 👇👇 GitHub Stats 👇👇 </h4>
+![berak636's Stats](https://github-readme-stats.vercel.app/api?username=berak636&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+
+<h3>👇👇 Languages and Tools 👇👇 </h3> <br>
+![berak636's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berak636&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **berak636/berak636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
