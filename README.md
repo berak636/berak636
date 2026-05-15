@@ -39,7 +39,7 @@ Currently working on next-generation AI media ecosystems and product modernizati
 ## 🔍 What I Work With
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
-[<img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" alt="Python Logo" width="50px" height="50px">]()
+[<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Python Logo" width="50px" height="50px">]()
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
