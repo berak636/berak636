@@ -38,15 +38,17 @@ Currently working on next-generation AI media ecosystems and product modernizati
 
 ## 🔍 What I Work With
 
+
+
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Reach Out
 
-[<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Instagram Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
-[<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
-[<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Facebook Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
-[<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Twitter Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
-[<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Gmail Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip%20Kiran)
+
+[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://www.linkedin.com/in/kiran-bera/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="52px" height="52px">](https://www.instagram.com/iambera_kiran/)
+[<img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="Twitter Logo" width="50px" height="50px">]()
+[<img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="Gmail Logo" width="50px" height="50px">](mailto:berakiran251050@gmail.com?subject=Hello%20Kiran)
 
 <!--
 **berak636/berak636** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip` (this file) appears on your GitHub profile.
