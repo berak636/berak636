@@ -12,7 +12,13 @@
 
 <h4> 👇👇 GitHub Stats 👇👇 </h4> <br>
 
-![berak636's Stats](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=berak636&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=berak636&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=berak636&icon=0&color=0)](https://visitcount.itsvg.in) <br>
 
 <h4> 👇👇 Contact me! 👇👇 </h4> <br>
 
