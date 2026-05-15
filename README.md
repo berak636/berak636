@@ -31,14 +31,14 @@ Currently working on next-generation AI media ecosystems and product modernizati
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Gitub Stats](https://github-readme-stats.shion.dev/api?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=berak636&theme=default&hide_border=false)<br/>
 
 
 ---
 
-<h2> 🔍 What I Work With </h2> <br>
+## 🔍 What I Work With
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
