@@ -38,7 +38,7 @@ Currently working on next-generation AI media ecosystems and product modernizati
 
 ## 🔍 What I Work With
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)  
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/) 
 [<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Logo" width="50px" height="50px">](https://www.sql.org/) 
 [<img src="https://www.svgrepo.com/show/373306/mongodb.svg" alt="MongoDB Logo" width="50px" height="50px">](https://www.sql.org/) 
 
