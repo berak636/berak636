@@ -1,12 +1,33 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8C38F7&center=true&width=435&lines=Hello+it's+me+Kiran+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+Github+%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F%F0%9F%99%8F)](https://git.io/typing-svg)
 
+Product Manager and Data Engineer with experience in building scalable digital products, AI-powered platforms, and data-driven solutions. Skilled in Python, SQL, Power BI, product strategy, and cross-functional leadership, with hands-on expertise in OTT platforms, SaaS products, machine learning modules, and enterprise ecosystems.
+
+Currently working on next-generation AI media ecosystems and product modernization initiatives, focusing on user experience, analytics, automation, and scalable architecture.
 
 
+## 🚀 Expertise
+- Product Management & Product Strategy
+- Data Engineering & Analytics
+- AI/ML Integrations
+- Python, SQL & Power BI
+- Agile & Scrum Methodologies
+- Wireframing & Prototyping (Figma, Miro, Moqups)
+- Cross-functional Team Leadership
+- User Experience & Product Optimization
 
 
+## 💼 Featured Projects
+- **Eros Universe** – AI-powered media ecosystem with GenAI integrations
+- **Eros Now Modernization** – OTT platform architecture and streaming optimization
+- **OEM Portal** – Enterprise B2B SaaS platform for insurance workflows
+- **OCR ML Module** – Automated policy data extraction using Pytesseract
+- **Brocore / Agento** – Customer 360 and broker management platform
 
-
-
+## 🌱 Currently Exploring
+- AI-powered product experiences
+- Scalable SaaS architecture
+- Advanced analytics & automation
+- GenAI applications in media and business platforms
 
 
 
