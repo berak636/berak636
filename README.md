@@ -10,8 +10,6 @@
 
 
 
-<h4> 👇👇 GitHub Stats 👇👇 </h4> <br>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=berak636&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=berak636&theme=dark&hide_border=false)<br/>
