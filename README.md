@@ -40,7 +40,10 @@ Currently working on next-generation AI media ecosystems and product modernizati
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/) 
 [<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Logo" width="50px" height="50px">](https://www.sql.org/) 
-[<img src="https://www.svgrepo.com/show/373306/mongodb.svg" alt="MongoDB Logo" width="50px" height="50px">](https://www.sql.org/) 
+[<img src="https://www.svgrepo.com/show/373306/mongodb.svg" alt="MongoDB Logo" width="50px" height="50px">](https://www.mongodb.com/) 
+[<img src="https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/b8d00b2e389e3a38f115ea00f7dc3dff3ef4f337/dbc32aa496f21ffa8508a4f6432d1e6c6f76e3b1" alt="Figma Logo" width="50px" height="50px">](https://www.figma.com/) 
+[<img src="" alt="Moqups Logo" width="50px" height="50px">](https://moqups.com/) 
+[<img src="" alt="Miro Logo" width="50px" height="50px">](https://miro.com/) 
 
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
