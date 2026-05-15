@@ -38,30 +38,13 @@ Currently working on next-generation AI media ecosystems and product modernizati
 
 ## 🔍 What I Work With
 
-
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
+[<img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" alt="Python Logo" width="50px" height="50px">]()
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Reach Out
 
-
 [<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://www.linkedin.com/in/kiran-bera/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGJwVJu8g0bYatTrufrElEabb6-SaXDUXMA&s" alt="Instagram Logo" width="52px" height="52px">](https://www.instagram.com/iambera_kiran/)
-[<img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="Twitter Logo" width="50px" height="50px">]()
 [<img src="https://static.vecteezy.com/system/resources/previews/013/948/544/non_2x/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="Gmail Logo" width="50px" height="50px">](mailto:berakiran251050@gmail.com?subject=Hello%20Kiran)
-
-<!--
-**berak636/berak636** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
