@@ -42,8 +42,8 @@ Currently working on next-generation AI media ecosystems and product modernizati
 [<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Logo" width="50px" height="50px">](https://www.sql.org/) 
 [<img src="https://www.svgrepo.com/show/373306/mongodb.svg" alt="MongoDB Logo" width="50px" height="50px">](https://www.mongodb.com/) 
 [<img src="https://www.svgrepo.com/show/361494/figma-logo.svg" alt="Figma Logo" width="45px" height="50px">](https://www.figma.com/) 
-[<img src="" alt="Moqups Logo" width="50px" height="50px">](https://moqups.com/) 
-[<img src="" alt="Miro Logo" width="50px" height="50px">](https://miro.com/) 
+[<img src="https://avatars.githubusercontent.com/u/4536940?s=280&v=4" alt="Moqups Logo" width="50px" height="50px">](https://moqups.com/) 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzUgRaq5Mw8XXQx0TFMckq9z6WOBX9Asekw&s" alt="Miro Logo" width="50px" height="50px">](https://miro.com/) 
 
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
