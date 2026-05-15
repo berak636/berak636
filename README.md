@@ -11,7 +11,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Gitub Stats](https://github-readme-stats.shion.dev/api?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=berak636&theme=default&hide_border=false)<br/>
 
 
@@ -19,7 +19,7 @@
 
 <h2> 🔍 What I Work With </h2> <br>
 
-![berak636's Top Languages](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)<br>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
 <h2> 🌐 Reach Out </h2> <br>
 
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
