@@ -41,7 +41,7 @@ Currently working on next-generation AI media ecosystems and product modernizati
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="Python Logo" width="50px" height="50px">](https://www.python.org/) 
 [<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Logo" width="50px" height="50px">](https://www.sql.org/) 
 [<img src="https://www.svgrepo.com/show/373306/mongodb.svg" alt="MongoDB Logo" width="50px" height="50px">](https://www.mongodb.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250625151003" alt="Figma Logo" width="50px" height="50px">](https://www.figma.com/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250625151003" alt="Figma Logo" width="45px" height="50px">](https://www.figma.com/) 
 [<img src="" alt="Moqups Logo" width="50px" height="50px">](https://moqups.com/) 
 [<img src="" alt="Miro Logo" width="50px" height="50px">](https://miro.com/) 
 
